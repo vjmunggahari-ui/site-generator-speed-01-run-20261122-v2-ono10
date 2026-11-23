@@ -1,3 +1,7 @@
+[![bounty](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/competitions/site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/vjmunggahari-ui/site-generator-speed-01-run-20261122-v2-ono10/rank.svg)](https://make.fun/competitions/site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/vjmunggahari-ui/site-generator-speed-01-run-20261122-v2-ono10/reward.svg)](https://make.fun/competitions/site-generator-speed-01-run-20261122)
+
 # Fast static site generator
 
 A dependency-free ES module that builds a whole static site — Markdown
